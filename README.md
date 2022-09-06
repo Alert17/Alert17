@@ -1,5 +1,5 @@
 Nikita Zakusilov
 
-Kharkiv
+Kharkiv/Kyiv/Remove
 
 JavaScript Developer
