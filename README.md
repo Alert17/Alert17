@@ -1,5 +1,3 @@
 Nikita Zakusilov
 
-Kharkiv/Kyiv/Remove
-
-JavaScript Developer
+Node.js Developer
